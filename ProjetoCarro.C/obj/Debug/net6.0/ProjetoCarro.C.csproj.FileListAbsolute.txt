@@ -1,0 +1,15 @@
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\bin\Debug\net6.0\ProjetoCarro.C.exe
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\bin\Debug\net6.0\ProjetoCarro.C.deps.json
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\bin\Debug\net6.0\ProjetoCarro.C.runtimeconfig.json
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\bin\Debug\net6.0\ProjetoCarro.C.dll
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\bin\Debug\net6.0\ProjetoCarro.C.pdb
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.csproj.AssemblyReference.cache
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.AssemblyInfo.cs
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.dll
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\refint\ProjetoCarro.C.dll
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.pdb
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ProjetoCarro.C.genruntimeconfig.cache
+C:\Users\augus\source\repos\ProjetoCarro.C\ProjetoCarro.C\obj\Debug\net6.0\ref\ProjetoCarro.C.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2rgO8FzzaCBSzb7Tesv8N5y8PYYgiPUbcr58jt03N5R8ImqT1RXpqv3ptapvPXQm27tGywS/9LT8JQmX2G1gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\augus\\source\\repos\\ProjetoCarro.C\\ProjetoCarro.C\\ProjetoCarro.C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
